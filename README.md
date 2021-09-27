@@ -1,3 +1,5 @@
+Submission for UWYO Hackathon 2021 Harmony.one Blockchain interoperability challenge.
+
 ##Overview
 
 Often in the cross chain ecosystem of the present, we see tokens easily able to migrate to different chains, but very rarely able to retain all their functionality. One of the most common token use cases is governance. We have designed and implemented a system for cross chain governance. This system allows voters to vote on the same proposal on any chain. All votes are aggregated across all chains and governance execution is mirror on every chain in the system simultaneously. We accomplish this through a system utilizing two participant roles: Ratifiers and Submitters. Each role is given an economic incentive to participate non-maliciously, and a disincentive for malicious behavior. 
